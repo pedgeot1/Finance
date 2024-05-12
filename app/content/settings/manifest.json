@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "your financial buddy",
+  "shortName": "finance",
+  "description": "A CRM software & made by Mr Ayush.",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"
